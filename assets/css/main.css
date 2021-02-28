@@ -1182,13 +1182,14 @@ input, select, textarea {
 
 	header {
 		margin-bottom: 1em;
+		background: 0x284e7f
+
 	}
 
 		header p {
 			display: block;
 			margin: 1em 0 0 0;
 			padding: 0 0 0.5em 0;
-			background: 0x284e7f
 		}
 
 	footer {
