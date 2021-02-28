@@ -1833,7 +1833,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background:0x284e7f;
+		background-color: #333;
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -1858,6 +1858,8 @@ input, select, textarea {
 			top: 0;
 			height: 3em;
 			line-height: 3em;
+			background-color: #333;
+
 		}
 
 			#header nav ul {
