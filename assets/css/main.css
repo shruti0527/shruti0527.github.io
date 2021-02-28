@@ -953,6 +953,12 @@ input, select, textarea {
 
 /* Image */
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 .centered1 {
   position: absolute;
   top: 50%;
