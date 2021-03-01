@@ -1418,7 +1418,7 @@ input, select, textarea {
 		}
 
 			.poptrox-popup:hover .closer:hover {
-				opacity: 1.0;
+				opacity: 0;
 			}
 
 		body.is-touch .poptrox-popup .nav-next,
