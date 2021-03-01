@@ -2030,6 +2030,9 @@ input, select, textarea {
 			justify-content: center;
 			padding: 3em 0 3em 0;
 			overflow: hidden;
+			background: url("images/overlay.png"), url("../../images/three.jpg");
+			background-size: cover;
+			background-attachment: fixed;
 		}
 
 			.main.style2 > .content {
@@ -2077,6 +2080,10 @@ input, select, textarea {
 		.main.style3 {
 			text-align: center;
 			padding: 6em 0 6em 0;
+			background: url("images/overlay.png"), url("../../images/three.jpg");
+			background-size: cover;
+			background-attachment: fixed;
+/* 			background-position: top left, center center; */
 		}
 
 			.main.style3 .content > header {
@@ -2090,6 +2097,7 @@ input, select, textarea {
 			.main.style3.secondary {
 				background: #f5f6f7;
 			}
+
 
 		.main.dark {
 			color: #ffffff;
