@@ -13,6 +13,7 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 <script src="./vendor/three.r95.min.js"></script>
 <script src="./dist/vanta.birds.min.js"></script>
+
 <style>
 
 #vantajs { 
@@ -158,6 +159,8 @@
 			
 			
 		<!-- Publications -->
+		<script src="./dist/vanta.globe.min.js"></script>
+
 		<div id="vantajs">
 
 		<section id="publication" class="main style1 dark fullscreen">
@@ -257,6 +260,19 @@ VANTA.BIRDS({
   backgroundColor: 0x284e7f,
     color1: 0xff2828,
     color2: 0xe6b13d
+})
+		
+VANTA.GLOBE({
+  el: "#vantajs",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0xff2828,
+  backgroundColor: 0x284e7f
 })
 </script>
 </script>
