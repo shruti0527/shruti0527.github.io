@@ -1005,7 +1005,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			width: 100%;
-			border: 50px solid #fff;
+			border: 20px solid #fff;
 
 		}
 
@@ -1013,7 +1013,7 @@ input, select, textarea {
 			float: left;
 /* 			margin: 0 2em 2em 0; */
 			margin: 20px, 20px, 20px, 20px;
-			border: 50px solid #fff;
+			border: 20px solid #fff;
 
 		}
 
