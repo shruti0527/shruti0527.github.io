@@ -1840,7 +1840,7 @@ input, select, textarea {
 				transform: translateY(7em);
 			}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 1280px) {
 
 			.gallery {
 				-moz-flex-wrap: nowrap;
