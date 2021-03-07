@@ -961,9 +961,9 @@ input, select, textarea {
 
 .centered1 {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 100%;
+  left: 100%;
+  transform: translate(-10%, -10%);
 }
 
 	.image {
@@ -1003,8 +1003,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			height: 200%;
-			width: 200%;
+			height: 100%;
+			width: 100%;
 			border: 20px solid #fff;
 
 		}
