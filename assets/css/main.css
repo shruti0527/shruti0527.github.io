@@ -1813,10 +1813,10 @@ input, select, textarea {
 		}
 
 			.gallery.inactive article.from-left {
-				-moz-transform: translateX(-14em);
-				-webkit-transform: translateX(-14em);
-				-ms-transform: translateX(-14em);
-				transform: translateX(-14em);
+				-moz-transform: translateX(0em);
+				-webkit-transform: translateX(0em);
+				-ms-transform: translateX(0em);
+				transform: translateX(0em);
 			}
 
 			.gallery.inactive article.from-right {
